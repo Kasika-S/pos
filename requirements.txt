@@ -1,0 +1,4 @@
+Django==4.2
+Django==5.0.6
+django_qrcode==0.3
+qrcode==7.4.2
